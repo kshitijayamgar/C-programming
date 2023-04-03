@@ -14,7 +14,7 @@ void main(){
 
         puts(str2);
 
-        strcpy(str1,str2);
+        strcpy(str2,str1);
 
         puts(str1);
 
