@@ -18,3 +18,4 @@ void main(){
         mystrlwr(str);
         puts(str);
 }
+
