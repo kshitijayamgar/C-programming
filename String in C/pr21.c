@@ -16,3 +16,4 @@ void main(){
         mystrupr(str);
         puts(str);
 }
+
