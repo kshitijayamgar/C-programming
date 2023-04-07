@@ -34,4 +34,5 @@ void main()
     }
     printf("\nThe total number of vowel in the string is : %d\n", vowel);
     printf("The total number of consonant in the string is : %d\n\n", cons);
+
 }
