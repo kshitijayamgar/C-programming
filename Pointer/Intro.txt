@@ -18,3 +18,11 @@ printf("%p\n", &myAge);
 
 // Output the memory address of myAge with the pointer (0x7ffe5367e044)
 printf("%p\n", ptr);
+
+Notes on Pointers
+
+Pointers are one of the things that make C stand out from other programming languages, like Python and Java.
+
+They are important in C, because they allow us to manipulate the data in the computer's memory. This can reduce the code and improve the performance. If you are familiar with data structures like lists, trees and graphs, you should know that pointers are especially useful for implementing those. And sometimes you even have to use pointers, for example when working with files.
+
+But be careful; pointers must be handled with care, since it is possible to damage data stored in other memory addresses. 
