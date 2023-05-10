@@ -21,3 +21,4 @@ int main()
 		printf(“Not Harshad Number”);
 	return 0;
 }
+
