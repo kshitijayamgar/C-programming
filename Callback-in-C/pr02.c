@@ -15,3 +15,4 @@ void main(){
 	m(&sum,1,2);
 	m(&sub,1,5);
 }
+
