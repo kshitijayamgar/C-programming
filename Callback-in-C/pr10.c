@@ -1,9 +1,6 @@
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <time.h>
-
 void shuffle(int * array, size_t n, int( * rand_func)(void)) {
   for (int i = n - 1; i > 0; i--) {
     int j = rand_func() % (i + 1);
