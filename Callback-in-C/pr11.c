@@ -17,8 +17,7 @@ void test_loop( callback_ fn )
         printf("i = %d\n", i);
     }
 }
-  
-int main()
+void main()
 {
     // Registering the callback
     callback_  fn_ptr = &callback_fn;
