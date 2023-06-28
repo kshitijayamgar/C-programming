@@ -17,3 +17,4 @@ if(flag==0)
 printf("Number is prime");     
 return 0;  
  }    
+
