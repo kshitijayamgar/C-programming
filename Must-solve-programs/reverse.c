@@ -9,5 +9,4 @@
          n/=10;    
       }    
     printf("Reversed Number: %d",reverse);    
-    return 0;  
-    }   
+}   
