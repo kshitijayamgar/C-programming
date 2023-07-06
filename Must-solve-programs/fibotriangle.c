@@ -1,6 +1,5 @@
  #include<stdio.h>    
-  
- void main(){  
+  void main(){  
        int a=0,b=1,i,c,n,j;    
    
         printf("Enter the limit:");    
