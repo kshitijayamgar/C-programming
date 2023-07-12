@@ -2,4 +2,5 @@
  #define fun  main    
     void fun() {    
        printf("Hello\n");    
-    }   
+    } 
+
